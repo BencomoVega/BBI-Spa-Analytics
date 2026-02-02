@@ -78,6 +78,31 @@ The analysis was delivered through an interactive dashboard designed for non-tec
 - Capacity usage by time slot
 - Bottleneck identification
 - Comparative service analysis
+### Dashboard overview
+![Dashboard overview](images/dashboard_overview.png)
+
+This view provides a high-level picture of the agenda structure, overall occupancy and operational balance across the day.
+
+---
+
+### Capacity usage by hour
+![Capacity usage by hour](images/capacity_by_hour.png)
+
+This chart highlights demand concentration by time slot, clearly showing peak periods and underutilised hours across different service categories.
+
+---
+
+### Operational bottlenecks
+![Operational bottlenecks](images/bottleneck_analysis.png)
+
+The heatmap representation makes structural bottlenecks visible, revealing how certain services and time slots constrain the overall system.
+
+---
+
+### Underutilised capacity
+![Underutilised capacity](images/underutilised_slots.png)
+
+This view exposes optimisation opportunities where capacity remains available adjacent to saturated periods, enabling actionable scheduling improvements.
 
 > All visuals shared in this repository are anonymised and representative of the original analysis.
 
